@@ -7,6 +7,5 @@ patchesStrategicMerge:
 - replica-and-rollout-strategy.yaml
 - database-secret.yaml
 
-namespace: dev
 namePrefix: dev-
 
