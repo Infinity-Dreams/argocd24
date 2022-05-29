@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/Infinity-Dreams/argocd24.git
     targetRevision: HEAD
-    path: kustomize/base/dev
+    path: kust
   destination: 
     server: https://kubernetes.default.svc
     namespace: myapp
